@@ -10,7 +10,7 @@ A modern web experience for **Claw & Crown**, a brand focused on premium, handcr
 
 ## 📌 Overview
 
-Claw & Crown is an interactive web application inspired by the classic board game Battleship.
+Claw & Crown Cabinet Configurator is an interactive web application inspired by the classic board game Battleship.
 
 It serves as a client-facing tool that allows sales representatives to configure and display cabinet layouts in real time, enabling orders to be captured and sent directly to the warehouse for production. The application allows users to arrange modular cabinet components within a structured layout, with a focus on organizing drawer configurations efficiently and intuitively.
 
