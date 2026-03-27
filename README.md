@@ -35,10 +35,14 @@ It serves as a client-facing tool that allows sales representatives to configure
 
 ## 🛠️ Tech Stack
 
-- **HTML5**
-- **CSS3 / Tailwind / Custom Styles**
-- **JavaScript (Vanilla or Framework if used)**
-- **Google Chrome (Primary Browser for Internal Use)**
+<img width="127" height="28" alt="Javascript" src="https://github.com/user-attachments/assets/a916ec3e-6803-494a-a1b0-b12b2fec4971" />
+<img width="139" height="28" alt="Tailwind" src="https://github.com/user-attachments/assets/f268a31a-b86e-444b-bdee-aa04d9ad8f45" />
+<img width="73" height="29" alt="CSS3" src="https://github.com/user-attachments/assets/3f0e1d5c-41c5-4876-af93-bce06ca93196" />
+<img width="88" height="28" alt="HTML5" src="https://github.com/user-attachments/assets/289898d0-27eb-43c6-abd2-c5dd2991c2d2" />
+<img width="158" height="28" alt="Google Chrome" src="https://github.com/user-attachments/assets/bbd294aa-aec9-456e-86aa-bb7fa07d8d20" />
+<br />
+<img width="214" height="28" alt="AI-assisted" src="https://github.com/user-attachments/assets/0c5c6936-e4b3-4e56-9711-1409fabbd64e" />
+<img width="88" height="28" alt="CODEX" src="https://github.com/user-attachments/assets/b3ac686f-802f-4f40-aeed-7fd8e6455a1a" />
 
 ---
 
