@@ -1,4 +1,6 @@
-<img width="371" height="108" alt="image" src="https://github.com/user-attachments/assets/5dd1c99d-ab81-4229-93c5-b477dd9b2476" />
+<a href="https://2benheise.github.io/claw-and-crown/" target="_blank">
+  <img width="371" height="108" alt="image" src="https://github.com/user-attachments/assets/5dd1c99d-ab81-4229-93c5-b477dd9b2476" />
+</a>
 
 A modern web experience for **Claw & Crown**, a brand focused on premium, handcrafted storage and display solutions for trading cards and collectibles.
 
@@ -53,3 +55,10 @@ cd claw-and-crown
 
 # Open in browser
 open index.html
+```
+<a href="https://2benheise.github.io/claw-and-crown/" target="_blank">
+  <img width="205" height="363" alt="image" src="https://github.com/user-attachments/assets/fdb75993-5fb2-4ff0-abd3-cc1eb36138d6" />
+</a>
+<a href="https://2benheise.github.io/claw-and-crown/" target="_blank">
+  <img width="206" height="354" alt="image" src="https://github.com/user-attachments/assets/d0043541-47c9-4f1b-a78d-7c8b17cb8b62" />
+</a>
