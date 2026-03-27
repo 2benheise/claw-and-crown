@@ -36,6 +36,7 @@ It serves as a client-facing tool that allows sales representatives to configure
 - **HTML5**
 - **CSS3 / Tailwind / Custom Styles**
 - **JavaScript (Vanilla or Framework if used)**
+- **Google Chrome (Primary Browser for Internal Use)**
 
 ---
 
